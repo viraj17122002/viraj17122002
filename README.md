@@ -38,6 +38,7 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/1izftUIdZYiFr
 
 <a href = "https://www.linkedin.com/in/viraj-jagdale-251720202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/vir.grammid_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:virajbalasahebjagdale@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 
 </p>
