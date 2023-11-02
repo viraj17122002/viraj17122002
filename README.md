@@ -30,17 +30,6 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/1izftUIdZYiFr
 
 -->
 
-<br/>
-
-
-
-
-
-
-
-
-
-
 
 ## Connect with me:
 <p align="left">
