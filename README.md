@@ -15,7 +15,7 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/1izftUIdZYiFr
 
 ## 🚀 Languages and Tools:
 
-![skills](https://skillicons.dev/icons?i=ithub,git,cpp,python,thermo-calc,scikit-learn,matplotlib,tenserflow,origin,ovito,linux&theme=dark&perline=10)
+![skills](https://skillicons.dev/icons?i=github,git,cpp,python,linux&theme=dark&perline=10)
 
 <!--
 
