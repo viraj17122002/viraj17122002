@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Viraj Jagdale
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 - 👨‍🔧 Experienced working in Thermo-Calc, ML and Data Analysis for applications in Material Science and Engineering
 - 🤔 Exploring new and exciting ideas, feel free to me : virajbalasahebjagdale@gmail.com
