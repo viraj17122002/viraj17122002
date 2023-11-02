@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Viraj Jagdale
 
+<!--  ![Materials Engineering](pic.jpeg)  -->
 
-
-- 👨‍🔧 Experienced working in Thermo-Calc, ML and Data Analysis for applications in Material Science and Engineering
-- 🤔 Exploring new and exciting ideas, feel free to me : virajbalasahebjagdale@gmail.com
+- 👨‍🔧 Experienced working in Thermo-Calc, Machine Learning and Data Analysis for applications in Material Science and Engineering
+- 🤔 Exploring new and exciting ideas, reach out to me : virajbalasahebjagdale@gmail.com
 - 👨‍💻 Currently a Final year B.Tech student pursuing Material Science Engineering from IIT Jodhpur.
 
 <!-- 
